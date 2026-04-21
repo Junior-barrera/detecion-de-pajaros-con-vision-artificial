@@ -4,7 +4,7 @@
 
 | Demo principal |
 |:---:|
-| ![Demo principal](.video_2.gif) |
+| ![Demo principal](./video_2.gif) |
 
 | Video 1 | Video 2 |
 |:---:|:---:|
