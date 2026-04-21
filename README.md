@@ -1,19 +1,14 @@
 # 🐦 Detección de Pájaros con Visión Artificial  
 
-## 🎥 Demo del Proyecto
+# Proyectos Personales
 
-<div align="center">
+| Demo principal |
+|:---:|
+| ![Demo principal](./video/video_2.gif) |
 
-<img src="./video/video_2.gif" width="600"/>
-
-<br><br>
-
-<a href="https://github.com/Junior-barrera/detecion-de-pajaros-con-vision-artificial/blob/main/video/video_1.mp4">
-  <img src="https://img.shields.io/badge/▶️%20Ver%20Video%20Completo-blue?style=for-the-badge" />
-</a>
-
-</div>
-
+| Video 1 | Video 2 |
+|:---:|:---:|
+| [▶️ Ver video](https://github.com/Junior-barrera/detecion-de-pajaros-con-vision-artificial/blob/main/video/video_1.mp4) | [▶️ Ver video](https://github.com/Junior-barrera/detecion-de-pajaros-con-vision-artificial/blob/main/video/video_2.mp4) |
 ---
 ---
 
