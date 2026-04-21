@@ -10,7 +10,7 @@
 
 Este proyecto implementa un sistema de **detección automática de pájaros utilizando visión artificial y deep learning**.
 
-El modelo fue entrenado para identificar aves en distintos entornos, incluyendo escenarios urbanos y naturales, logrando una detección robusta en tiempo real.
+El modelo fue entrenado para identificar pajaros en distintos entornos, incluyendo escenarios urbanos y naturales, logrando una detección robusta en tiempo real.
 
 ---
 
