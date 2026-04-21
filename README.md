@@ -2,13 +2,11 @@
 
 # Proyectos Personales
 
-| Demo principal |
+
+| Video  |
 |:---:|
 | ![Demo principal](./video_2.gif) |
 
-| Video 1 | Video 2 |
-|:---:|:---:|
-| [▶️ Ver video](https://github.com/Junior-barrera/detecion-de-pajaros-con-vision-artificial/blob/main/video/video_1.mp4) | [▶️ Ver video](https://github.com/Junior-barrera/detecion-de-pajaros-con-vision-artificial/blob/main/video/video_2.mp4) |
 ---
 ---
 
