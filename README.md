@@ -46,15 +46,7 @@ Se incluyen videos de prueba procesados utilizando material de YouTube para vali
 
 Incluye:
 - Detección en tiempo real  
-- Diferentes escenarios  
-- Pruebas de precisión del modelo  
+- Diferentes escenarios 
 
 ---
 
-# 🚀 Ejecución
-
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-pip install -r requirements.txt
-python detect.py --weights weights/best.pt --source videos/test.mp4
