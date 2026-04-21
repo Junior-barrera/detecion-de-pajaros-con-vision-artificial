@@ -1,11 +1,20 @@
 # 🐦 Detección de Pájaros con Visión Artificial  
 
-## 👋 Bienvenido, soy Junior Barrera  
+## 🎥 Demo del Proyecto
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ingeniero+Civil+Industrial;Desarrollador;Especialista+en+IA+%26+ML;Computer+Vision+Engineer;Fundador+de+JR+Services" alt="Typing SVG" />
+
+<img src="./video/video_2.gif" width="600"/>
+
+<br><br>
+
+<a href="https://github.com/Junior-barrera/detecion-de-pajaros-con-vision-artificial/blob/main/video/video_1.mp4">
+  <img src="https://img.shields.io/badge/▶️%20Ver%20Video%20Completo-blue?style=for-the-badge" />
+</a>
+
 </div>
 
+---
 ---
 
 # 📌 Descripción del Proyecto
