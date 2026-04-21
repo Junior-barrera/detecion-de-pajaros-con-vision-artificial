@@ -1,8 +1,4 @@
 # 🐦 Detección de Pájaros con Visión Artificial  
-
-# Proyectos Personales
-
-
 | Video  |
 |:---:|
 | ![Demo principal](./video_2.gif) |
