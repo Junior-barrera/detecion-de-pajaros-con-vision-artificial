@@ -18,7 +18,7 @@ El modelo fue entrenado para identificar pajaros en distintos entornos, incluyen
 
 - 🔍 Dataset: Imágenes de aves en múltiples condiciones (luz, fondo, distancia)  
 - 🏋️ Entrenamiento: Realizado por **Junior Barrera**  
-- ⚙️ Framework: YOLO / PyTorch  
+- ⚙️ YOLO / PyTorch  
 - 🎯 Objetivo: Detección precisa y eficiente en tiempo real  
 - 📈 Optimización: Ajuste de hiperparámetros y fine-tuning  
 
